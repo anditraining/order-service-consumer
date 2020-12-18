@@ -13,7 +13,7 @@ import org.springframework.jms.support.converter.MessageConverter;
 import org.springframework.jms.support.converter.MessageType;
 
 @Configuration
-@ComponentScan(basePackages = "com.ram")
+@ComponentScan(basePackages = "com.javatpoint")
 public class JMSConfiguration
 {
 	@Bean
